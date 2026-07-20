@@ -1,2 +1,1 @@
-# Stack-Tecnolog-co-AI-Open-Source
-La idea es construir una infraestructura la cual pueda correr con los minimos recursos posibles y permita democratizar el uso de AI logrando resultados de modelos mas grandes a traves de cadenas de pensamiento distribuidas y herramientas modulares. 
+The idea is to build an infrastructure that can run with the fewest possible resources and allow the democratization of AI use, achieving results from larger models through distributed thought chains and modular tools.
