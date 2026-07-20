@@ -1,1 +1,1 @@
-The idea is to build an infrastructure that can run with the fewest possible resources and allow the democratization of AI use, achieving results from larger models through distributed thought chains and modular tools.
+
