@@ -1,5 +1,8 @@
 # Colmena 🐝
 
+Core Idea: 
+The project's central idea is to redistribute the power of an artificial intelligence model. The reason? To democratize the use of AI and safeguard information systems.
+
 > **Distributed reasoning over open source models — because intelligence shouldn't have a single owner.**
 
 *Working name. "Colmena" means beehive: no single bee runs the show, yet the hive solves problems no bee could solve alone.*
